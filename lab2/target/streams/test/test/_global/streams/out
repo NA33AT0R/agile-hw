@@ -1,0 +1,24 @@
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(MaxFinderTest, org.scalatest.tools.Framework$$anon$1@7a8b0927, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mMaxFinderTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mMaxFinder[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m- should find the maximum value in a Vec *** FAILED ***[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  chisel3.package$ChiselException: Connection between sink (MaxFinder.io.in[0]: IO[UInt<8>]) and source (MaxFinder.io.in[0]: IO[UInt<8>]) failed @: io.in[0] in MaxFinder cannot be written from module MaxFinder.[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at ... ()[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at MaxFinder.$anonfun$new$1(MaxFinder.scala:17)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at MaxFinder.$anonfun$new$1$adapted(MaxFinder.scala:16)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at scala.collection.immutable.Range.foreach(Range.scala:192)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at MaxFinder.<init>(MaxFinder.scala:16)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at MaxFinderTest.$anonfun$new$2(MaxFinderTest.scala:8)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at chisel3.Module$.evaluate(Module.scala:88)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at chisel3.Module$.do_apply(Module.scala:35)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at chisel3.stage.phases.Elaborate.$anonfun$transform$2(Elaborate.scala:53)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at chisel3.internal.Builder$.$anonfun$buildImpl$1(Builder.scala:1044)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  ...[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 1 second, 573 milliseconds.[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 1[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 1, aborted 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 0, failed 1, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m*** 1 TEST FAILED ***[0m[0m
+[0m[[0m[31merror[0m] [0m[0mFailed tests:[0m
+[0m[[0m[31merror[0m] [0m[0m	MaxFinderTest[0m
+[0m[[0m[31merror[0m] [0m[0m(Test / [31mtest[0m) sbt.TestsFailedException: Tests unsuccessful[0m

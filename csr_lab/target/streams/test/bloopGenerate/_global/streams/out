@@ -1,0 +1,4 @@
+[debug] [csr_lab-test] Classpath dependencies List()
+[debug] [csr_lab-test] Dependencies from configurations List(csr_lab)
+[debug] Bloop wrote the configuration of project 'csr_lab-test' to 'C:\Users\gabri\.aGITProgrammering\agile-hw\csr_lab\.bloop\csr_lab-test.json'
+[success] Generated .bloop\csr_lab-test.json
