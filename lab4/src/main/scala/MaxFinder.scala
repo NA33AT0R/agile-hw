@@ -11,15 +11,17 @@ class MaxFinder(val n: Int, val width: Int) extends Module {
     val max = Output(UInt(width.W))
   })
 
-  var x = io.in(0)
+  //you can technically also do it in one line
+  //io.max:=(io.in).reduceTree((a, b) => Mux(a > b, a, b))
 
-  for (w <- 0 to n) {
-    x:=io.in(w)
-    when(io.max < x) {
-      io.max := x
-    }
-  }
-  print(x)
-  io.max := x
+
+  //We create a Vec, so that we work with it without touching io.in
+  val myVec = io.in
+  
+  //Create our own max value, which is set to be reduceTree() (finds the value in the tree that fullfills the process the best)
+  //and we apply the logic that it should return the value larger than the others in the tree
+  val max = myVec.reduceTree((a, b) => Mux(a > b, a, b))
+  
+  io.max := max
 
 }
