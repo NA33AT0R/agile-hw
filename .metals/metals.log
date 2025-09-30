@@ -106,3 +106,72 @@
 2025.09.23 13:38:31 INFO  no build target found for C:\Users\gabri\.aGITProgrammering\agile-hw\lab5\src\main\scala\GenComp.scala. Using presentation compiler with project's scala-library version: 2.13.16
 2025.09.23 13:38:31 INFO  no build target found for C:\Users\gabri\.aGITProgrammering\agile-hw\lab5\src\main\scala\GenComp.scala. Using presentation compiler with project's scala-library version: 2.13.16
 2025.09.23 13:38:32 INFO  no build target found for C:\Users\gabri\.aGITProgrammering\agile-hw\lab5\src\main\scala\GenComp.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.09.23 13:43:19 INFO  Started: Metals version 1.6.2 in folders 'C:\Users\gabri\.aGITProgrammering\agile-hw' for client Visual Studio Code 1.104.1.
+2025.09.23 13:43:24 INFO  no build target found for C:\Users\gabri\.aGITProgrammering\agile-hw\lab5\src\main\scala\GenComp.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.09.23 13:43:29 INFO  no build target found for C:\Users\gabri\.aGITProgrammering\agile-hw\lab5\src\main\scala\GenComp.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.09.23 13:43:29 INFO  Attempting to connect to the build server...
+2025.09.23 13:43:29 INFO  Found a Bloop server running
+2025.09.23 13:43:29 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\gabri\.aGITProgrammering\agile-hw\.metals\bsp.trace.json or C:\Users\gabri\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.09.23 13:43:29 INFO  time: Connected to build server in 0.56s
+2025.09.23 13:43:30 INFO  Connected to Build server: Bloop v2.0.13
+2025.09.23 13:43:30 INFO  time: Imported build in 0.35s
+2025.09.23 13:43:40 INFO  time: indexed workspace in 10s
+2025.09.23 13:43:40 WARN  no build target for: C:\Users\gabri\.aGITProgrammering\agile-hw\lab5\src\main\scala\GenComp.scala
+2025.09.23 13:43:40 INFO  no build target found for C:\Users\gabri\.aGITProgrammering\agile-hw\lab5\src\main\scala\GenComp.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.09.23 13:43:40 INFO  no build target found for C:\Users\gabri\.aGITProgrammering\agile-hw\lab5\src\main\scala\GenComp.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.09.23 13:43:40 WARN  no build target for: C:\Users\gabri\.aGITProgrammering\agile-hw\lab5\src\main\scala\GenComp.scala
+2025.09.23 13:43:44 INFO  time: code lens generation in 3.44s
+2025.09.23 13:43:44 INFO  time: code lens generation in 2.83s
+2025.09.23 13:43:46 INFO  no build target found for C:\Users\gabri\.aGITProgrammering\agile-hw\lab5\src\main\scala\GenComp.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.09.23 13:43:50 INFO  no build target found for C:\Users\gabri\.aGITProgrammering\agile-hw\lab5\src\main\scala\GenComp.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.09.23 13:43:50 INFO  no build target found for C:\Users\gabri\.aGITProgrammering\agile-hw\lab5\src\main\scala\GenComp.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.09.23 13:56:23 INFO  no build target found for C:\Users\gabri\.aGITProgrammering\agile-hw\lab5\src\main\scala\GenComp.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.09.23 14:54:41 INFO  Shutting down server
+2025.09.23 14:54:41 INFO  shutting down Metals
+2025.09.23 14:54:42 INFO  Shut down connection with build server.
+2025.09.23 14:54:41 INFO  Exiting server
+2025.09.23 15:05:47 INFO  Started: Metals version 1.6.2 in folders 'C:\Users\gabri\.aGITProgrammering\agile-hw' for client Visual Studio Code 1.104.1.
+2025.09.23 15:05:49 INFO  no build target found for C:\Users\gabri\.aGITProgrammering\agile-hw\lab5\src\main\scala\GenComp.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.09.23 15:05:52 INFO  no build target found for C:\Users\gabri\.aGITProgrammering\agile-hw\lab5\src\main\scala\GenComp.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.09.23 15:05:52 INFO  Attempting to connect to the build server...
+2025.09.23 15:05:52 INFO  Found a Bloop server running
+2025.09.23 15:05:52 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\gabri\.aGITProgrammering\agile-hw\.metals\bsp.trace.json or C:\Users\gabri\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.09.23 15:05:53 INFO  time: Connected to build server in 1.01s
+2025.09.23 15:05:53 INFO  Connected to Build server: Bloop v2.0.13
+2025.09.23 15:05:53 INFO  time: Imported build in 0.58s
+2025.09.23 15:06:03 INFO  time: indexed workspace in 9.27s
+2025.09.23 15:06:03 WARN  no build target for: C:\Users\gabri\.aGITProgrammering\agile-hw\lab5\src\main\scala\GenComp.scala
+2025.09.23 15:06:03 INFO  no build target found for C:\Users\gabri\.aGITProgrammering\agile-hw\lab5\src\main\scala\GenComp.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.09.23 15:06:03 INFO  no build target found for C:\Users\gabri\.aGITProgrammering\agile-hw\lab5\src\main\scala\GenComp.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.09.23 15:06:03 WARN  no build target for: C:\Users\gabri\.aGITProgrammering\agile-hw\lab5\src\main\scala\GenComp.scala
+2025.09.23 15:06:06 INFO  time: code lens generation in 2.39s
+2025.09.23 15:06:06 INFO  time: code lens generation in 1.38s
+2025.09.23 15:06:07 INFO  no build target found for C:\Users\gabri\.aGITProgrammering\agile-hw\lab5\src\main\scala\GenComp.scala. Using presentation compiler with project's scala-library version: 2.13.16
+sep. 23, 2025 3:06:18 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2025.09.23 15:06:34 INFO  no build target found for C:\Users\gabri\.aGITProgrammering\agile-hw\lab5\src\main\scala\GenComp.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.09.23 15:06:35 INFO  no build target found for C:\Users\gabri\.aGITProgrammering\agile-hw\lab5\src\main\scala\GenComp.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.09.23 15:06:35 INFO  no build target found for C:\Users\gabri\.aGITProgrammering\agile-hw\lab5\src\main\scala\GenComp.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.09.23 15:06:35 INFO  no build target found for C:\Users\gabri\.aGITProgrammering\agile-hw\lab5\src\main\scala\GenComp.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.09.23 15:06:36 INFO  no build target found for C:\Users\gabri\.aGITProgrammering\agile-hw\lab5\src\main\scala\GenComp.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.09.23 15:06:36 INFO  no build target found for C:\Users\gabri\.aGITProgrammering\agile-hw\lab5\src\main\scala\GenComp.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.09.23 15:06:37 INFO  no build target found for C:\Users\gabri\.aGITProgrammering\agile-hw\lab5\src\main\scala\GenComp.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.09.23 15:06:37 INFO  no build target found for C:\Users\gabri\.aGITProgrammering\agile-hw\lab5\src\main\scala\GenComp.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.09.23 15:06:37 INFO  no build target found for C:\Users\gabri\.aGITProgrammering\agile-hw\lab5\src\main\scala\GenComp.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.09.23 15:06:39 INFO  no build target found for C:\Users\gabri\.aGITProgrammering\agile-hw\lab5\src\main\scala\GenComp.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.09.23 15:06:39 INFO  no build target found for C:\Users\gabri\.aGITProgrammering\agile-hw\lab5\src\main\scala\GenComp.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.09.23 15:06:39 INFO  no build target found for C:\Users\gabri\.aGITProgrammering\agile-hw\lab5\src\main\scala\GenComp.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.09.23 15:06:40 INFO  no build target found for C:\Users\gabri\.aGITProgrammering\agile-hw\lab5\src\main\scala\GenComp.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.09.23 15:06:40 INFO  no build target found for C:\Users\gabri\.aGITProgrammering\agile-hw\lab5\src\main\scala\GenComp.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.09.23 15:06:42 INFO  no build target found for C:\Users\gabri\.aGITProgrammering\agile-hw\lab5\src\main\scala\GenComp.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.09.23 15:06:42 INFO  no build target found for C:\Users\gabri\.aGITProgrammering\agile-hw\lab5\src\main\scala\GenComp.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.09.23 15:06:44 INFO  no build target found for C:\Users\gabri\.aGITProgrammering\agile-hw\lab5\src\main\scala\GenComp.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.09.23 15:06:48 INFO  no build target found for C:\Users\gabri\.aGITProgrammering\agile-hw\lab5\src\main\scala\GenComp.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.09.23 15:06:53 INFO  no build target found for C:\Users\gabri\.aGITProgrammering\agile-hw\lab5\src\main\scala\GenComp.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.09.23 15:06:55 INFO  no build target found for C:\Users\gabri\.aGITProgrammering\agile-hw\lab5\src\main\scala\GenComp.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.09.23 15:06:59 INFO  no build target found for C:\Users\gabri\.aGITProgrammering\agile-hw\lab5\src\main\scala\GenComp.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.09.23 15:07:04 INFO  no build target found for C:\Users\gabri\.aGITProgrammering\agile-hw\lab5\src\main\scala\GenComp.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.09.23 15:07:25 INFO  Shutting down server
+2025.09.23 15:07:25 INFO  shutting down Metals
+2025.09.23 15:07:25 INFO  Shut down connection with build server.
+2025.09.23 15:07:25 INFO  Exiting server
